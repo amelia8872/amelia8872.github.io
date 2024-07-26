@@ -313,6 +313,8 @@ section {
 /* EXPERIENCE SECTIONS */
 #experience {
   position: relative;
+  flex-direction: row;
+  margin-bottom: 32rem;
 }
 
 .experience-sub-title {
@@ -351,6 +353,7 @@ article.icon {
 /* PROJECTS SECTIONS */
 #projects {
   position: relative;
+  margin-top: 6rem;
 }
 
 .color-container {
@@ -361,7 +364,7 @@ article.icon {
 .project-img {
   border-radius: 2rem;
   width: 90%;
-  height: 90 %;
+  height: 90%;
 }
 
 .project-title {
